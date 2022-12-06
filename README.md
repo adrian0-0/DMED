@@ -1,11 +1,10 @@
 # DMED - College Work
 
 ## Dependences
-<li>
-    <ul>Node JS 16.15.1 or higher</ul>
-    <ul>React Native</ul>
-    <ul>Android Studio - Android 13 or higher</ul>
-</li>
+- Node JS 16.15.1 or higher
+- React Native
+- Android Studio - Android 13 or higher
+
 
 ## Need Help?
 Watch this <a href="https://www.youtube.com/watch?v=f6TXEnHT_Mk&t=509s">tutorial</a>
