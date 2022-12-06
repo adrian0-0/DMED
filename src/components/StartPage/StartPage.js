@@ -28,7 +28,7 @@ export default function StartPage() {
             
             <View style={StartPage_styl.login_container}>
                 <View style={StartPage_styl.logo_subtitle}>
-                    <View><Text  style={StartPage_styl.main_slogan}>DMED entregando inovação e rapidez no atendimento</Text></View>
+                    <View><Text  style={StartPage_styl.main_slogan}>GMED entregando inovação e rapidez no atendimento</Text></View>
                     <View><Text  style={StartPage_styl.button_loginDescription}>Faça o seu login rápido por aqui:</Text></View>
                 </View>
                 <View style={StartPage_styl.button_blockEntrar}>
