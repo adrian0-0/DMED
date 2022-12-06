@@ -18,11 +18,14 @@ export default function SingIn() {
                 <Text style={styles.message}>Faça seu Login:</Text>
             </Animatable.View>
             <Animatable.View animation="fadeInUp" style={styles.containerForm}>
-                <Text style={styles.title}>Email</Text>
-                <TextInput placeholder="Digite um email..." style={styles.input}></TextInput>
+                <Text style={styles.title}>Código de Motorista
+
+</Text>
+                <TextInput placeholder="Digite o numero de motorista..." style={styles.input}></TextInput>
                 
-                <Text style={styles.title}>Senha</Text>
-                <TextInput placeholder="Sua senha" style={styles.input}></TextInput>
+                <Text style={styles.title}>Código do Veículo</Text>
+                <TextInput placeholder="O Numero do seu veículo
+" style={styles.input}></TextInput>
 
                 <TouchableOpacity style={styles.button} onPress={() => navigation.navigate("Congratulations")}>
                     <Text style={styles.button_text}>ACESSAR</Text>
