@@ -1,4 +1,4 @@
-# College Work
+# DMED - College Work
 
 ## Dependences
 <li>
@@ -13,6 +13,8 @@ Watch this <a href="https://www.youtube.com/watch?v=f6TXEnHT_Mk&t=509s">tutorial
 ## How use it:
 <pre>
     <code>
+        git clone https://github.com/adrian-maximize/DMED.git
+        cd DMED
         yarn install
         expo start -a
     </code>
